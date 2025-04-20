@@ -1,0 +1,20 @@
+{
+  "compilerOptions":
+    "target":
+    "lib":
+    "allowJs":
+    "skipLibCheck": false,
+    "strict": false,
+    "forceConsistentCasingInFileNames": false,
+    "noEmit": false,
+    "esModuleInterop": false,
+    "module":
+    "moduleResolution":
+    "resolveJsonModule": false,
+    "isolatedModules": false,
+    "jsx": 
+    "incremental": true
+  
+  "include": 
+  "exclude": 
+}
